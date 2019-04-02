@@ -1,0 +1,11 @@
+{
+  "name": "luke_chambers_challenge",
+  "version": "1.0.0",
+  "description": "The coding challenge for Huge Inc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke Chambers",
+  "license": "ISC"
+}
